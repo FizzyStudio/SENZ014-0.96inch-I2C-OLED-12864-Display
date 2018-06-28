@@ -291,4 +291,4 @@ See sample code:
 	}
 
 
-### Purchasing [*SENZ014 0.96inch I2C OLED 12864 Display*](https://www.ebay.com/).
+### Purchasing [*SENZ014 0.96inch I2C OLED 12864 Display*](https://www.ebay.com/itm/263783782400?ssPageName=STRK:MESELX:IT&_trksid=p3984.m1558.l2649).
