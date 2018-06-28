@@ -2,12 +2,12 @@
 
 ###### Translation
 
-> For `English`, please click [`here.`](https://github.com/njustcjj/SENZ014-0.96inch-I2C-OLED-12864-Display/blob/master/README.md)
+> For `English`, please click [`here.`](https://github.com/FizzyStudio/SENZ014-0.96inch-I2C-OLED-12864-Display/blob/master/README.md)
 
-> For `Chinese`, please click [`here.`](https://github.com/njustcjj/SENZ014-0.96inch-I2C-OLED-12864-Display/blob/master/README_CN.md)
+> For `Chinese`, please click [`here.`](https://github.com/FizzyStudio/SENZ014-0.96inch-I2C-OLED-12864-Display/blob/master/README_CN.md)
 
-![](https://github.com/njustcjj/SENZ014-0.96inch-I2C-OLED-12864-Display/blob/master/pic/SENZ014_Front.jpg "SENZ014")
-![](https://github.com/njustcjj/SENZ014-0.96inch-I2C-OLED-12864-Display/blob/master/pic/SENZ014_Back.jpg "SENZ014_Back")
+![](https://github.com/FizzyStudio/SENZ014-0.96inch-I2C-OLED-12864-Display/blob/master/pic/SENZ014_Front.jpg "SENZ014_Front")
+![](https://github.com/FizzyStudio/SENZ014-0.96inch-I2C-OLED-12864-Display/blob/master/pic/SENZ014_Back.jpg "SENZ014_Back")
 
 
 ### Introduction
