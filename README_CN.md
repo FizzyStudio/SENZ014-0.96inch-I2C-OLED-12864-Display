@@ -2,12 +2,12 @@
 
 ###### 翻译
 
-> `英文` 请参考 [`这里`](https://github.com/njustcjj/SENZ014-0.96inch-I2C-OLED-12864-Display/blob/master/README.md)
+> `英文` 请参考 [`这里`](https://github.com/FizzyStudio/SENZ014-0.96inch-I2C-OLED-12864-Display/blob/master/README.md)
 
-> `中文` 请参考 [`这里`](https://github.com/njustcjj/SENZ014-0.96inch-I2C-OLED-12864-Display/blob/master/README_CN.md)
+> `中文` 请参考 [`这里`](https://github.com/FizzyStudio/SENZ014-0.96inch-I2C-OLED-12864-Display/blob/master/README_CN.md)
 
-![](https://github.com/njustcjj/SENZ014-0.96inch-I2C-OLED-12864-Display/blob/master/pic/SENZ014_front.jpg "SENZ014_Front")
-![](https://github.com/njustcjj/SENZ014-0.96inch-I2C-OLED-12864-Display/blob/master/pic/SENZ014_back.jpg "SENZ014_Back")
+![](https://github.com/FizzyStudio/SENZ014-0.96inch-I2C-OLED-12864-Display/blob/master/pic/SENZ014_front.jpg "SENZ014_Front")
+![](https://github.com/FizzyStudio/SENZ014-0.96inch-I2C-OLED-12864-Display/blob/master/pic/SENZ014_back.jpg "SENZ014_Back")
  
 
 ### 产品介绍
@@ -293,4 +293,4 @@ See sample code:
 	}
 
 
-### 购买[*SENZ014 0.96寸 I2C OLED 12864 显示屏*](https://www.ebay.com/).
+### 购买[*SENZ014 0.96寸 I2C OLED 12864 显示屏*](https://www.ebay.com/itm/263783782400?ssPageName=STRK:MESELX:IT&_trksid=p3984.m1558.l2649).
